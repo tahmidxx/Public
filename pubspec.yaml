@@ -1,0 +1,30 @@
+name: flutter_apps
+description: A new Flutter project.
+
+publish_to: 'none' # Prevents accidental publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8 # For iOS-style icons
+  url_launcher: ^6.1.10
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0 # Recommended lint rules
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/stu_agency_info.json
+
+
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804585355498",
+    "project_id": "probashcare",
+    "storage_bucket": "probashcare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804585355498:android:7486d031a177365083ff93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNyyzSobX9W4BcTdob9Hwp_Q8I8i9y5cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
